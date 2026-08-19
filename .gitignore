@@ -1,0 +1,11 @@
+.DS_Store
+.serena/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
