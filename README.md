@@ -25,13 +25,13 @@ live in the portfolio [roadmap](https://github.com/teo-garcia/templates/blob/mai
 
 ## Intended Scope
 
-| Capability | Contract |
-| --- | --- |
+| Capability | Contract                                      |
+| ---------- | --------------------------------------------- |
 | Networking | VPC, subnets, and constrained security groups |
-| Identity | Least-privilege service roles and policies |
-| Data | Managed Postgres and optional object storage |
-| Secrets | Provider-native secrets management |
-| Routing | DNS zones and application records |
+| Identity   | Least-privilege service roles and policies    |
+| Data       | Managed Postgres and optional object storage  |
+| Secrets    | Provider-native secrets management            |
+| Routing    | DNS zones and application records             |
 
 ---
 
