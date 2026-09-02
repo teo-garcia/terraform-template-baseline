@@ -17,9 +17,8 @@ ecosystem
 
 ## Status
 
-This repository is incubating. It defines the intended infrastructure boundary
-but does not yet contain deployable modules. Planning and open design questions
-live in the portfolio [roadmap](https://github.com/teo-garcia/templates/blob/main/ROADMAP.md#terraform-baseline).
+This repository is an early product preview. It describes the intended
+infrastructure boundary but does not yet contain deployable modules.
 
 ---
 
